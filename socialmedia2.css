@@ -24,7 +24,7 @@ body{
  }
 
  ul li{
-     height: 65px;
+     height: 60px;
      outline: none;
  }
 
@@ -35,7 +35,7 @@ body{
      line-height: 70px;
      font-size: 20px;
      color: white;
-     padding-left: 10%;
+     padding-left: 5%;
      background: #1e1e1e;
      border-top: 1px solid rgba(255,255,255,.1);
      border-bottom: 1px solid black;
@@ -43,16 +43,24 @@ body{
 
  }
 
- li a.links{
-     border-bottom: 1px solid rgba(0,0,0,.5);
+ li a{
+     font-size: small;
+     font-weight: 200;
     
  }
+
  .Active a{
      color: #b93632;
      border-left: 6px solid #b93632;
      background: #1b1b1b;
 
  }
+
+li{
+    font-size: large;
+    color: white;
+
+}
 
  section{
      margin-left: 260px;
@@ -62,7 +70,7 @@ body{
     margin-left: -20px;
     background: url(home.jpg) no-repeat;
     background-size: cover;
-    height: 50vh;
+    height: 100vh;
     
 }
  

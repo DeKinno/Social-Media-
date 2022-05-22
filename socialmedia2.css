@@ -62,28 +62,32 @@ body{
     margin-left: -20px;
     background: url(home.jpg) no-repeat;
     background-size: cover;
-    height: 80vh;
+    height: 50vh;
+    
 }
-
+ 
 .sec2{
     margin-left: -20px;
     background: url(frontend.jpg) no-repeat;
     background-size: cover;
-    height: 100vh;
+    height: 70vh;
+    width: 150vh;
 }
 
 .sec3{
     margin-left: -20px;
     background: url(backend.jpg) no-repeat;
     background-size: cover;
-    height: 100vh;
+    height: 70vh;
+    width: 150vh;
 }
 
 .sec4{
     margin-left: -20px;
     background: url(projectmanagement.jpg) no-repeat;
     background-size: cover;
-    height: 100vh;
+    height: 70vh;
+    width: 150vh;
 }
 
 
